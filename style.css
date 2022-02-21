@@ -45,7 +45,7 @@ color:lightgrey;
 
 .content{
     width: 56%;
-    height: 500px;
+    height: 450px;
     float: left; 
     margin:0 2%;
 }
@@ -93,15 +93,12 @@ color:lightgrey;
 
 }
 
-.first-main{height: 75px;
+.first-main{height: 35px;
     margin-top: 15px;
   
-
 }
 
-.color-main{
-    padding-bottom: 20px;
-}
+
 
 
 body{width: 80%;
