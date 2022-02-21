@@ -7,6 +7,7 @@
 }
 .list-header{ 
  list-style: none;
+ padding-top: 10px;
    
 }
 li{
@@ -15,8 +16,19 @@ li{
  
  
 }
+h1{
+ padding-top: 20px; 
+ font-size: 40px;  
+
+}
+h3{
+font-family:Arial, Helvetica, sans-serif;
+color:lightslategrey;
+
+}
 .logo{width: 200px;
     height: 80px;
+    
 
 }
 .site_footer{ height: 50px;
@@ -50,9 +62,9 @@ li{
 .initial-main{height: 580px;
   width: 904px;
   margin-top: 25px;
-  border-radius: 10px;
+  border-radius: 15px;
 }
-.banner-container{
+
    
   
 
