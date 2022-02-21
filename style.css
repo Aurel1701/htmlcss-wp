@@ -13,6 +13,7 @@
 li{
  float:left; 
  margin-right: 20px;
+ color: lightgray;
  
  
 }
@@ -23,7 +24,7 @@ h1{
 }
 h3{
 font-family:Arial, Helvetica, sans-serif;
-color:lightslategrey;
+color:lightgrey;
 
 }
 .logo{width: 200px;
@@ -32,23 +33,25 @@ color:lightslategrey;
 
 }
 .site_footer{ height: 50px;
-    background-color:purple;
+    text-align: center;
+    
     
     
 
 }
 .sidebar{
     width: 20%;
-    height: 500px;
+    height: 200px;
     float: left;
-    background-color:lightblue;
+  
+   
+    
     
 }
 .content{
     width: 56%;
     height: 500px;
-    float: left;
-    background-color:lightblue;
+    float: left; 
     margin:0 2%;
 }
 .clearfix::after{
@@ -64,7 +67,30 @@ color:lightslategrey;
   margin-top: 25px;
   border-radius: 15px;
 }
+.img-1{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.img-2{
+    width: 505px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    display: center;
+}
+.img-3{
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin: right 0;
 
+}
    
   
 
@@ -76,8 +102,9 @@ color:lightslategrey;
     margin-bottom: 15px;
 
 }
-.color-main{background-color: blue;
+.color-main{
     padding-bottom: 20px;
+  
 
 }
 main{
@@ -86,6 +113,7 @@ main{
 }
 body{width: 80%;
     margin:0 auto;
-
-
+}
+span{
+    color: red;
 }
