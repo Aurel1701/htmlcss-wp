@@ -2,8 +2,7 @@
     margin:0;
     padding: 0;
     box-sizing: border-box;
-    
-    
+      
 }
 .list-header{ 
  list-style: none;
@@ -15,13 +14,13 @@ li{
  margin-right: 20px;
  color: lightgray;
  
- 
 }
+
 h1{
  padding-top: 20px; 
  font-size: 40px;  
-
 }
+
 h3{
 font-family:Arial, Helvetica, sans-serif;
 color:lightgrey;
@@ -30,43 +29,43 @@ color:lightgrey;
 .logo{width: 200px;
     height: 80px;
     
-
 }
+
 .site_footer{ height: 50px;
-    text-align: center;
-    
-    
-    
+    text-align: center;   
 
 }
+
 .sidebar{
     width: 20%;
     height: 200px;
     float: left;
-  
-   
-    
-    
+     
 }
+
 .content{
     width: 56%;
     height: 500px;
     float: left; 
     margin:0 2%;
 }
+
 .clearfix::after{
     content: "";
     display: table;
     clear:both;
 }
+
 .site_main{
     margin: 1rem 0;
 }
+
 .initial-main{height: 580px;
   width: 904px;
   margin-top: 25px;
   border-radius: 15px;
 }
+
 .img-1{
     width: 200px;
     height: 200px;
@@ -74,6 +73,7 @@ color:lightgrey;
     margin-top: 40px;
     margin-bottom: 10px;
 }
+
 .img-2{
     width: 505px;
     height: 200px;
@@ -82,6 +82,7 @@ color:lightgrey;
     margin-bottom: 10px;
     display: center;
 }
+
 .img-3{
     width: 200px;
     height: 200px;
@@ -91,10 +92,7 @@ color:lightgrey;
     margin: right 0;
 
 }
-   
-  
 
-}
 .first-main{height: 75px;
     background-color:lightblue;
     width:top;
@@ -104,16 +102,13 @@ color:lightgrey;
 }
 .color-main{
     padding-bottom: 20px;
-  
+}
 
-}
-main{
-    
-    
-}
+
 body{width: 80%;
     margin:0 auto;
 }
+
 span{
     color: red;
 }
